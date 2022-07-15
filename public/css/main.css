@@ -1,0 +1,18 @@
+a.text:active, /* активная/посещенная ссылка */
+a.text:hover,  /* при наведении */
+a.text {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+a.text_b:active, /* активная/посещенная ссылка */
+a.text_b:hover,  /* при наведении */
+a.text_b {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+div.inline {
+    display: inline-block;
+}
